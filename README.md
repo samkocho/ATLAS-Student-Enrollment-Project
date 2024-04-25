@@ -1,5 +1,5 @@
 # ATLAS-Student-Enrollment-Project
-
+Project is hosted on: https://huggingface.co/spaces/samkocho/atlasmlproject
 ## Introduction
 
 Welcome to our project on forecasting international student enrollment at the University of Illinois at Urbana-Champaign (UIUC). This README provides an overview of the project, its objectives, methodologies, challenges faced, and potential improvements.
