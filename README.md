@@ -4,10 +4,6 @@ Project is hosted on: https://huggingface.co/spaces/samkocho/atlasmlproject
 
 Welcome to our project on forecasting international student enrollment at the University of Illinois at Urbana-Champaign (UIUC). This README provides an overview of the project, its objectives, methodologies, challenges faced, and potential improvements.
 
-## Brief Bio
-
-Our team consists of passionate individuals dedicated to leveraging data science techniques to address real-world challenges in higher education. With a diverse skill set encompassing data analysis, machine learning, and domain expertise in academia, we are committed to providing actionable insights to support strategic decision-making at UIUC.
-
 ## Introduction to Project
 
 The project aims to forecast trends in international student enrollment at UIUC, providing valuable insights for strategic planning, resource allocation, and policy development. International students contribute to the cultural diversity, academic excellence, and global reputation of the university, making it essential to understand and anticipate changes in their enrollment patterns.
